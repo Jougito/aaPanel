@@ -2,50 +2,50 @@
 	"Logs": {
 		"Panel": {
 			"index_1": "Registros de operación",
-			"index_2": "Ejecutar registros",
-			"index_3": "Tronos cron",
-			"index_4": "Por favor ingrese el nombre del registro",
+			"index_2": "Registros de ejecución",
+			"index_3": "Registro de tareas programadas",
+			"index_4": "Por favor, introduce el nombre del registro",
 			"index_5": "Borrar registros",
 			"index_6": "Tipo de operación",
-			"index_7": "Tiempo de operación",
-			"index_13": "Tiempo de escaneo",
+			"index_7": "Fecha de operación",
+			"index_13": "Fecha de escaneo",
 			"index_14": "Ataque PHP",
-			"index_15": "A punto de borrar registros, ¿continúa?"
+			"index_15": "Estás a punto de borrar los registros, ¿deseas continuar?"
 		},
 		"Website": {
 			"index_1": "URL (top100)",
 			"index_2": "Registros de acceso",
-			"index_3": "Se recomienda realizar un análisis de seguridad cuando la carga del servidor sea baja. Esta vez, el archivo de registro [{0}]. Se escaneará y el tiempo de espera puede ser más largo. ¿Quieres continuar?",
+			"index_3": "e recomienda realizar el análisis de seguridad cuando la carga del servidor sea baja. En esta ocasión se escaneará el archivo [{0}].log y el tiempo de espera puede ser más largo. ¿Deseas continuar?",
 			"index_4": "Registros de errores",
 			"index_5": "IP (top100)"
 		},
 		"Audit": {
-			"index_1": "Ingrese fuente/puerto/rol/evento"
+			"index_1": "Por favor, introduce Origen/Puerto/Rol/Evento"
 		},
 		"SSH": {
-			"index_1": "IP: puerto"
+			"index_1": "IP: Puerto"
 		},
 		"Soft": {
 			"index_1": "Nombre de usuario FTP",
-			"index_2": "Operación IP",
+			"index_2": "IP de operación",
 			"index_3": "Archivo",
-			"index_4": "Tiempo de aterrizaje",
+			"index_4": "Fecha de conexión",
 			"index_5": "Registros FTP",
-			"index_6": "MySQL Logs Logs",
-			"index_7": "Registros de errores mysql",
+			"index_6": "Registros de operaciones lentas de MySQL",
+			"index_7": "Registros de errores de MySQL",
 			"index_8": "Registro de operaciones",
-			"index_9": "Ingrese las palabras clave de búsqueda"
+			"index_9": "Por favor, introduce palabras clave de búsqueda"
 		},
 		"Conversion": {
 			"index_1": "Auditoría de registros - Introducción",
-			"index_2": "Analizar y analizar registros comunes",
-			"index_3": "Recopilar, analizar y auditar información como varias operaciones, eventos y situaciones anormales registradas por el sistema, la red y los programas de aplicaciones.",
+			"index_2": "Analiza e interpreta registros comunes",
+			"index_3": "Recoge, analiza y audita información sobre diversas operaciones, eventos y situaciones anómalas registradas por el sistema, la red y las aplicaciones",
 			"index_4": "Registros FTP - Introducción",
-			"index_5": "Registrar y ver el registro de inicio de sesión y el registro de inicio de sesión FTP actual",
-			"index_6": "Registro de FTP Información de registro de sesión de inicio de sesión y sesión de usuario de usuario de usuario FTP",
-			"index_7": "SSH Iniciar sesión - Introducción",
-			"index_8": "Registre y vea los registros de inicio de sesión SSH actuales",
-			"index_9": "Registro de información actual de registros de inicio de sesión SSH"
+			"index_5": "Registra y visualiza los registros actuales de inicio de sesión y operaciones FTP",
+			"index_6": "Registra la información de inicio de sesión del cliente FTP y las operaciones sobre archivos de los usuarios FTP",
+			"index_7": "Registros de inicio de sesión SSH  - Introducción",
+			"index_8": "Registra y visualiza los registros actuales de inicio de sesión SSH",
+			"index_9": "Registra la información actual de los registros de inicio de sesión SSH"
 		}
 	}
 }
