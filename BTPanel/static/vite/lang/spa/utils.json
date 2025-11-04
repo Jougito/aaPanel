@@ -1,8 +1,8 @@
 {
 	"Utils": {
 		"Copy": {
-			"index_1": "Copiado con éxito",
-			"index_2": "Falla de copia"
+			"index_1": "Copia realizada con éxito",
+			"index_2": "Fallo al realizar la copia"
 		}
 	}
 }
